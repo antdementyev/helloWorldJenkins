@@ -13,6 +13,6 @@ public class HelloWorldTest {
 	
 	@Test
 	public void testGive1(){
-		assertEquals(2, new HelloWorld().give1());
+		assertEquals(1, new HelloWorld().give1());
 	}
 }
